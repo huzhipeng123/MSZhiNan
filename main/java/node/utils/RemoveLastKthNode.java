@@ -72,6 +72,4 @@ public class RemoveLastKthNode {
         }
         return head;
     }
-
-
 }
